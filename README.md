@@ -10,6 +10,8 @@ Aside from my creative coding works on [Codepen](https://codepen.io/terabaud), I
 
 [lea.codes](https://lea.codes) is my personal website built with [eleventy](https://11ty.dev) documenting my WebGL and THREE.js code journey.
 
+Link to the repo: https://github.com/terabaud/lea-codes
+
 ## glea
 
 GLea (GL experience artistry) is a WebGL library I built.
