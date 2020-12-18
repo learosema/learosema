@@ -32,7 +32,7 @@ Link to the repo: https://github.com/terabaud/webgl-templates
 
 ## talentbook
 
-talentbook is a clone of the SkillWill application written in full stack TypeScript (TypeScript+TypeORM+Express+Swagger OpenAPI in the backend and TypeScript+React+Storybook in the frontend).
+talentbook is a platform where you can share your skills in certain technologies and if you prefer working with that or not, something like a mini-linkedin. The application is written in full stack TypeScript (TypeScript+TypeORM+Express+Swagger OpenAPI in the backend and TypeScript+React+Storybook in the frontend). The initial motivation was [SkillWill](https://github.com/sinnerschrader/SkillWill) by SinnerSchrader.
 
 Link to the repo: https://github.com/terabaud/talentbook
 
