@@ -2,7 +2,7 @@
 
 I'm a digital artist and frontend developer based in Hamburg, Germany. I moved to Hamburg in November 2018, when I started working at [SinnerSchrader](https://github.com/sinnerschrader), which is a digital agency. 
 
-Before my time at SinnerSchrader, I was working as a full stack web developer at Brügmann Software GmbH since 2011, which is a mid-size company in Papenburg specialized in IP management software.
+Before my time at SinnerSchrader, I was working as a full stack web developer at [Brügmann Software GmbH](https://patorg.de) since 2011, which is a mid-size company in Papenburg specialized in IP management software.
 
 Aside from my creative coding works on [Codepen](https://codepen.io/terabaud), I also have a couple of notable projects on GitHub.
 
