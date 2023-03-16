@@ -4,7 +4,7 @@ I'm a digital artist and frontend developer based in Hamburg, Germany.
 
 Aside from my creative coding works on [Codepen](https://codepen.io/learosema), I also have a couple of notable projects on GitHub.
 
-You can find me on <a rel="me" href="https://chaos.social/@learosema">Mastodon</a>
+You can find me on <a rel="me" href="https://lea.lgbt/@lea">Mastodon</a>
 
 - [lea-codes](https://github.com/learosema/lea-codes) is my [personal website](https://lea.codes) built documenting my WebGL and THREE.js code journey.
 - [GLea](https://github.com/learosema/glea) (GL experience artistry) is a WebGL library I built.
